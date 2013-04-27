@@ -15,7 +15,6 @@
     "readmeFilename": "README.md",
     "gitHead": "ed062896c62daa1fffc0dee856ec8ded5dd41a49",
     "devDependencies": {
-        "express": "*",
         "less": "*",
         "walk": "*"
     }
