@@ -1,0 +1,16 @@
+body {
+  color: #ff0000;
+}
+.c1 {
+  background: #ff0000;
+  width: 1px;
+}
+body {
+  overflow-x: hidden;
+}
+div {
+  margin: 0;
+}
+span {
+  overflow: hidden;
+}
